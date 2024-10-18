@@ -142,7 +142,7 @@ For this lab we are going to write code to print out a Vigenère square, and wri
 
 ## Part 3 - Decryption - NOT bonus this time
 
-**This time this part of the lab is NOT bonus, because I want you all to have a working encryption/decryption cipher. The goal here is to recover the plain_text, but I want you to recover each palin_text character into a list and then use `join()` on the list to return the plaintext result.**
+**This time this part of the lab is NOT bonus, because I want you all to have a working encryption/decryption cipher. The goal here is to recover the plain_text, but I want you to recover each plain_text character into a list and then use `join()` on the list to return the plaintext result.**
 
 ---
 
