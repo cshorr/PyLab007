@@ -18,13 +18,12 @@ def letter_to_index(letter, alphabet):
     return alphabet.upper(letter.upper())
 def index_to_letter(index, alphabet):
     if 0 <= index < len(alphabet):
-    return alphabet[index].lower()
+        return alphabet[index].lower()
 
 def vigenere_index(key, plaintext, alphabet):
-   letter_to_index(key_letter, alphabet) % len(alphabet), alphabet))
+    letter_to_index(key_letter, alphabet) % len(alphabet), alphabet):
 
-key = "bluesmurf"
+    key = "bluesmurf"
 
-alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-vigenere_sq_print(vigenere_sq(alphabet))
-   print(f"Plaintext: {plaintext}")
+    alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    vigenere_sq_print(vigenere_sq(alphabet))
