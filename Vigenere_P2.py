@@ -21,7 +21,7 @@ def index_to_letter(index, alphabet):
     return alphabet[index].lower()
 
 def vigenere_index(key, plaintext, alphabet):
-   letter_to_index(key_letter, alphabet) % len(alphabet), alphabet))
+   #letter_to_index(key_letter, alphabet) % len(alphabet), alphabet))
 
 key = "bluesmurf"
 
