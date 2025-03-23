@@ -1,0 +1,11 @@
+[33m43a5ecf[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/Main[m[33m)[m HEAD@{0}: pull --rebase origin Main (start): checkout 43a5ecfcbb2b6ef88aa7245153be166ccfc7541b
+[33mcdaa5fd[m[33m ([m[1;32mmain[m[33m)[m HEAD@{1}: commit (amend): almost done, but out of time
+[33m015a1c2[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{2}: commit (amend): almost done, but out of time
+[33m9aaeba8[m HEAD@{3}: commit (amend): almost done, but out of time
+[33m1f0dfa1[m HEAD@{4}: commit: almost done, but out of time
+[33m851cde6[m HEAD@{5}: commit (amend): EMERCENY SAVE
+[33m7b134c7[m HEAD@{6}: Branch: renamed refs/heads/main to refs/heads/main
+[33m7b134c7[m HEAD@{8}: commit: first commit
+[33m7c21112[m HEAD@{9}: Branch: renamed refs/heads/master to refs/heads/main
+[33m7c21112[m HEAD@{11}: commit: week 08 Emergency save(stop pushing buttons)
+[33m59fdf2b[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{12}: clone: from https://github.com/THartmanOfTheRedwoods/PyLab007.git
